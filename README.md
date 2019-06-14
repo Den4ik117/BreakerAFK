@@ -1,5 +1,5 @@
-# BreakerAFK
-<h2>Универсальное средство для вечного AFK на серверах Minecraft с модами</h2>
+# BreakerAFK - Универсальное средство для вечного AFK на серверах Minecraft с модами
+<br/>
 <h3>Скачать</h3>
 <p>Последняя версия - <a href="https://drive.google.com/file/d/1dYYJNjh63p3M4R2w5i_nTNlIKCbOEyAn/view?usp=sharing">InstallerBreakerAFK</a></p>
 <h4>Установка</h4>
