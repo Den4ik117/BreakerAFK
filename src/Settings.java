@@ -8,8 +8,4 @@ public class Settings {
     public double getKickTime() {
         return kickTime;
     }
-
-    public void setKickTime(double kickTime) {
-        this.kickTime = kickTime;
-    }
 }
