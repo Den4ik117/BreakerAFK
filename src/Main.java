@@ -87,8 +87,8 @@ public class Main {
 
                         Settings settings = new Settings(number);
 
-                        String newValue = GSON.toJson(settings);
-                        changeSettings(new File("Settings.json"), newValue);
+                        String newVal = GSON.toJson(settings);
+                        changeSettings(new File("Settings.json"), newVal);
                     }
                 }
             }
